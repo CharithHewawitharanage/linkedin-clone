@@ -1,6 +1,6 @@
 import firebase from "firebase";
 const firebaseConfig = {
-  apiKey: "AIzaSyBMfjhan6XdACB4cNrrSIOrrG0hbJsUCXI",
+  apiKey: "Your Key",
   authDomain: "linkedin-clone-94286.firebaseapp.com",
   projectId: "linkedin-clone-94286",
   storageBucket: "linkedin-clone-94286.appspot.com",
